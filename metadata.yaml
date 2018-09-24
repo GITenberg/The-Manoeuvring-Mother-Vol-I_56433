@@ -1,5 +1,8 @@
 _repo: The-Manoeuvring-Mother-Vol-I_56433
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56433-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Bury, Charlotte Campbell, Lady
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33772
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Bury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56433#The-Manoeuvring-Mother-Vol-I
 gutenberg_issued: '2018-01-25'
 gutenberg_type: Text
 identifiers:
